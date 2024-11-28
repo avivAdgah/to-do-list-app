@@ -1,0 +1,13 @@
+.warpper{
+    text-align: center;
+    background-color: #F5F5F5;
+    padding-top: 10px;
+}
+.title{
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 32px;
+    color: #333333;
+}

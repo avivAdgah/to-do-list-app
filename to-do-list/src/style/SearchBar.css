@@ -1,0 +1,42 @@
+.search-warpper{
+    margin-bottom: 25px;
+}
+
+.search-text {
+    font-family: "Montserrat", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    font-optical-sizing: auto;
+    padding: 10px;
+    margin: 0 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  .search-text:focus {
+    border-color: #4CAF50;
+  }
+  
+
+.search-button{
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: #FFFFFF;
+  border-radius: 10%;
+  box-shadow: rgba(0, 0, 0, 0.2); /* need to check the shadow of the add button*/
+}
+
+.search-button:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    transition: all 0.3s;
+}
+
+
+  
